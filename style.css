@@ -338,6 +338,8 @@ nav {
             position: absolute;
             right: 0;
             background-color: var(--white);
+            border-bottom: 1px solid var(--very-light-pink);
+
         }
     
         #product-detail .product-detail-close {
